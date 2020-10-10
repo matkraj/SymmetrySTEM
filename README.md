@@ -1,2 +1,3 @@
 # SymmetrySTEM
-Placeholder for SymmetrySTEM code
+
+Application to analyse SymmetrySTEM signals in 4D-STEM datasets. 
