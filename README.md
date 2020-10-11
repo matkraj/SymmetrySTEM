@@ -2,7 +2,7 @@
 
 Application to analyse SymmetrySTEM signals in 4D-STEM datasets. 
 
-To build the application, you will require a Linux PC with ArrayFire library.
+To build the application, you will require a Linux PC, standard build system libraries and ArrayFire library.
 The executable can be compiled by:
 
 ``` 
